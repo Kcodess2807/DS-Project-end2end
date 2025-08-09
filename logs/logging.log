@@ -1,1 +1,285 @@
 [2025-08-01 22:11:05,902: INFO: main: welcome to our custom logging data science]
+[2025-08-05 21:21:57,411: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-05 21:21:57,417: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-05 21:32:36,860: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-05 21:32:36,862: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-05 21:32:36,871: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-05 21:33:09,284: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-05 21:33:09,284: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-05 21:33:09,289: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-05 21:33:09,298: INFO: common: created directory at: artifacts]
+[2025-08-05 21:36:11,916: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-05 21:36:11,916: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-05 21:36:11,919: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-05 21:36:11,921: INFO: common: created directory at: artifacts]
+[2025-08-05 21:37:13,557: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-05 21:37:13,559: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-05 21:37:13,559: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-05 21:37:13,562: INFO: common: created directory at: artifacts]
+[2025-08-05 21:37:13,565: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-05 21:37:15,034: INFO: 653420479: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2520:C0D1C:14EDDF:2C7735:68922C33
+Accept-Ranges: bytes
+Date: Tue, 05 Aug 2025 16:07:16 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10223-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1754410036.204901,VS0,VE265
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 02c4571df58876d15fa62ae3074754ea1461c407
+Expires: Tue, 05 Aug 2025 16:12:16 GMT
+Source-Age: 0
+
+]
+[2025-08-06 00:03:04,119: INFO: main: >>>>>>>>data ingesiton pipeline<<<<<<<<<<]
+[2025-08-06 00:03:04,119: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-06 00:03:04,119: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-06 00:03:04,119: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-06 00:03:04,119: INFO: common: created directory at: artifacts]
+[2025-08-06 00:03:04,119: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-06 00:03:04,119: INFO: data_ingestion: file already exists]
+[2025-08-06 00:03:04,128: INFO: main: >>>>>>>>>stage data ingesiton pipeline completed <<<<<<< ]
+[2025-08-06 00:03:04,128: INFO: main: welcome to our custom logging data science]
+[2025-08-06 00:04:00,067: INFO: main: >>>>>>>>data ingesiton pipeline<<<<<<<<<<]
+[2025-08-06 00:04:00,068: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-06 00:04:00,069: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-06 00:04:00,070: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-06 00:04:00,070: INFO: common: created directory at: artifacts]
+[2025-08-06 00:04:00,073: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-06 00:04:01,598: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2947:380F1D:16CAE7:319980:68924E9A
+Accept-Ranges: bytes
+Date: Tue, 05 Aug 2025 18:34:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10223-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1754418843.888872,VS0,VE265
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7b9c7e40f8847ac785cfb7e80af58220a4a49b19
+Expires: Tue, 05 Aug 2025 18:39:03 GMT
+Source-Age: 0
+
+]
+[2025-08-06 00:04:01,609: INFO: main: >>>>>>>>>stage data ingesiton pipeline completed <<<<<<< ]
+[2025-08-06 00:04:01,609: INFO: main: welcome to our custom logging data science]
+[2025-08-09 17:27:43,997: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 17:27:44,026: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 17:27:44,035: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 17:27:44,037: INFO: common: created directory at: artifacts]
+[2025-08-09 17:27:44,038: INFO: common: created directory at: artifacts/data_validation]
+[2025-08-09 17:30:03,310: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 17:30:03,312: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 17:30:03,316: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 17:30:03,317: INFO: common: created directory at: artifacts]
+[2025-08-09 17:30:03,318: INFO: common: created directory at: artifacts/data_validation]
+[2025-08-09 17:35:42,443: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 17:35:42,445: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 17:35:42,447: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 17:35:42,449: INFO: common: created directory at: artifacts]
+[2025-08-09 17:35:42,450: INFO: common: created directory at: artifacts/data_validation]
+[2025-08-09 18:03:32,354: INFO: main: >>>>>>>>data ingesiton pipeline<<<<<<<<<<]
+[2025-08-09 18:03:32,355: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:03:32,356: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:03:32,356: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:03:32,356: INFO: common: created directory at: artifacts]
+[2025-08-09 18:03:32,356: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-09 18:03:32,359: INFO: data_ingestion: file already exists]
+[2025-08-09 18:03:32,380: INFO: main: >>>>>>>>>stage data ingesiton pipeline completed <<<<<<< ]
+[2025-08-09 18:03:32,381: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-08-09 18:03:32,383: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:03:32,383: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:03:32,385: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:03:32,385: INFO: common: created directory at: artifacts]
+[2025-08-09 18:03:32,386: INFO: common: created directory at: artifacts/data_validation]
+[2025-08-09 18:03:32,386: ERROR: main: DataValidationConfig.__init__() got an unexpected keyword argument 'unzip_data_dir']
+Traceback (most recent call last):
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\main.py", line 19, in <module>
+    data_ingestion.initiate_data_validation()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\pipeline\data_validation_pipeline.py", line 13, in initiate_data_validation
+    data_validation_config = config.get_data_validation_config()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\config\configuration.py", line 36, in get_data_validation_config
+    data_validation_config = DataValidationConfig(
+TypeError: DataValidationConfig.__init__() got an unexpected keyword argument 'unzip_data_dir'
+[2025-08-09 18:23:03,030: INFO: main: >>>>>>>>data ingesiton pipeline<<<<<<<<<<]
+[2025-08-09 18:23:03,032: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:23:03,032: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:23:03,034: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:23:03,034: INFO: common: created directory at: artifacts]
+[2025-08-09 18:23:03,034: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-09 18:23:03,035: ERROR: main: DataIngestionConfig.__init__() got an unexpected keyword argument 'unzip_dir']
+Traceback (most recent call last):
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\main.py", line 9, in <module>
+    data_ingestion.initiate_data_ingestion()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\config\configuration.py", line 23, in get_data_ingestion_config
+    data_ingestion_config = DataIngestionConfig(
+TypeError: DataIngestionConfig.__init__() got an unexpected keyword argument 'unzip_dir'
+[2025-08-09 18:26:38,656: INFO: main: >>>>>>>>data ingesiton pipeline<<<<<<<<<<]
+[2025-08-09 18:26:38,658: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:26:38,658: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:26:38,661: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:26:38,661: INFO: common: created directory at: artifacts]
+[2025-08-09 18:26:38,661: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-09 18:26:38,662: ERROR: main: "'unzip_data_dir'"]
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'unzip_data_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\main.py", line 9, in <module>
+    data_ingestion.initiate_data_ingestion()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\config\configuration.py", line 27, in get_data_ingestion_config
+    unzip_data_dir=config['unzip_data_dir']
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'unzip_data_dir'"
+[2025-08-09 18:27:37,355: INFO: main: >>>>>>>>data ingesiton pipeline<<<<<<<<<<]
+[2025-08-09 18:27:37,366: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:27:37,372: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:27:37,372: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:27:37,372: INFO: common: created directory at: artifacts]
+[2025-08-09 18:27:37,372: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-09 18:27:37,375: ERROR: main: "'unzip_data_dir'"]
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'unzip_data_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\main.py", line 9, in <module>
+    data_ingestion.initiate_data_ingestion()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\pipeline\data_ingestion_pipeline.py", line 14, in initiate_data_ingestion
+    data_ingestion_config=config.get_data_ingestion_config()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\config\configuration.py", line 27, in get_data_ingestion_config
+    unzip_data_dir=config['unzip_data_dir']
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'unzip_data_dir'"
+[2025-08-09 18:28:33,568: INFO: main: >>>>>>>>data ingesiton pipeline<<<<<<<<<<]
+[2025-08-09 18:28:33,569: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:28:33,570: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:28:33,571: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:28:33,572: INFO: common: created directory at: artifacts]
+[2025-08-09 18:28:33,572: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-09 18:28:33,572: INFO: data_ingestion: file already exists]
+[2025-08-09 18:28:33,572: ERROR: main: 'DataIngestionConfig' object has no attribute 'unzip_dir']
+Traceback (most recent call last):
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\main.py", line 9, in <module>
+    data_ingestion.initiate_data_ingestion()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\pipeline\data_ingestion_pipeline.py", line 17, in initiate_data_ingestion
+    data_ingestion.extract_zip()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\components\data_ingestion.py", line 23, in extract_zip
+    unzip_path=self.config.unzip_dir
+AttributeError: 'DataIngestionConfig' object has no attribute 'unzip_dir'
+[2025-08-09 18:29:03,106: INFO: main: >>>>>>>>data ingesiton pipeline<<<<<<<<<<]
+[2025-08-09 18:29:03,117: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:29:03,118: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:29:03,120: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:29:03,121: INFO: common: created directory at: artifacts]
+[2025-08-09 18:29:03,121: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-09 18:29:03,122: INFO: data_ingestion: file already exists]
+[2025-08-09 18:29:03,122: ERROR: main: 'DataIngestionConfig' object has no attribute 'unzip_dir']
+Traceback (most recent call last):
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\main.py", line 9, in <module>
+    data_ingestion.initiate_data_ingestion()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\pipeline\data_ingestion_pipeline.py", line 17, in initiate_data_ingestion
+    data_ingestion.extract_zip()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\components\data_ingestion.py", line 23, in extract_zip
+    unzip_path=self.config.unzip_dir
+AttributeError: 'DataIngestionConfig' object has no attribute 'unzip_dir'
+[2025-08-09 18:31:20,292: INFO: main: >>>>>>>>data ingesiton pipeline<<<<<<<<<<]
+[2025-08-09 18:31:20,292: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:31:20,292: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:31:20,292: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:31:20,292: INFO: common: created directory at: artifacts]
+[2025-08-09 18:31:20,292: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-09 18:31:20,292: INFO: data_ingestion: file already exists]
+[2025-08-09 18:31:20,292: INFO: main: >>>>>>>>>stage data ingesiton pipeline completed <<<<<<< ]
+[2025-08-09 18:31:20,304: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-08-09 18:31:20,306: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:31:20,307: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:31:20,307: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:31:20,307: INFO: common: created directory at: artifacts]
+[2025-08-09 18:31:20,307: INFO: common: created directory at: artifacts/data_validation]
+[2025-08-09 18:31:20,307: ERROR: main: DataValidationConfig.__init__() got an unexpected keyword argument 'unzip_data_dir']
+Traceback (most recent call last):
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\main.py", line 19, in <module>
+    data_ingestion.initiate_data_validation()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\pipeline\data_validation_pipeline.py", line 13, in initiate_data_validation
+    data_validation_config = config.get_data_validation_config()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\config\configuration.py", line 36, in get_data_validation_config
+    data_validation_config = DataValidationConfig(
+TypeError: DataValidationConfig.__init__() got an unexpected keyword argument 'unzip_data_dir'
+[2025-08-09 18:41:40,963: INFO: main: >>>>>>>>data ingesiton pipeline<<<<<<<<<<]
+[2025-08-09 18:41:40,963: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:41:40,963: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:41:40,963: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:41:40,963: INFO: common: created directory at: artifacts]
+[2025-08-09 18:41:40,963: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-09 18:41:40,963: INFO: data_ingestion: file already exists]
+[2025-08-09 18:41:40,963: INFO: main: >>>>>>>>>stage data ingesiton pipeline completed <<<<<<< ]
+[2025-08-09 18:41:40,963: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-08-09 18:41:40,979: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:41:40,980: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:41:40,983: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:41:40,984: INFO: common: created directory at: artifacts]
+[2025-08-09 18:41:40,984: INFO: common: created directory at: artifacts/data_validation]
+[2025-08-09 18:41:40,985: ERROR: main: name 'pd' is not defined]
+Traceback (most recent call last):
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\main.py", line 19, in <module>
+    data_ingestion.initiate_data_validation()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\pipeline\data_validation_pipeline.py", line 15, in initiate_data_validation
+    data_validation.validate_all_columns()
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\components\data_val.py", line 33, in validate_all_columns
+    raise e
+  File "D:\MLOPs-Tutorials\DS-Project-end2end\src\dataScience\components\data_val.py", line 14, in validate_all_columns
+    data = pd.read_csv(self.config.unzip_data_dir)
+NameError: name 'pd' is not defined
+[2025-08-09 18:52:04,698: INFO: main: >>>>>>>>data ingesiton pipeline<<<<<<<<<<]
+[2025-08-09 18:52:04,699: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:52:04,699: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:52:04,699: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:52:04,699: INFO: common: created directory at: artifacts]
+[2025-08-09 18:52:04,699: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-09 18:52:04,699: INFO: data_ingestion: file already exists]
+[2025-08-09 18:52:04,699: INFO: main: >>>>>>>>>stage data ingesiton pipeline completed <<<<<<< ]
+[2025-08-09 18:52:04,706: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-08-09 18:52:04,707: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-09 18:52:04,709: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-09 18:52:04,710: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-09 18:52:04,711: INFO: common: created directory at: artifacts]
+[2025-08-09 18:52:04,711: INFO: common: created directory at: artifacts/data_validation]
+[2025-08-09 18:52:04,724: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-08-09 18:52:04,724: INFO: main: welcome to our custom logging data science]
