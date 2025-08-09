@@ -3,7 +3,7 @@
 #### WORKFLOWS--ml pipelines
 
 1. data ingesiton
-2. data transformation
+2. data transformation ( feature engineerin, data manipulaiton, preprocessing, handling missing values)
 3. model trainer
 4. model evaluation
 
