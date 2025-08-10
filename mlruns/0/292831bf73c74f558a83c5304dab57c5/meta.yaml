@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs-Tutorials/DS-Project-end2end/mlruns/0/292831bf73c74f558a83c5304dab57c5/artifacts
+end_time: 1754810717821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 292831bf73c74f558a83c5304dab57c5
+run_name: painted-crow-981
+run_uuid: 292831bf73c74f558a83c5304dab57c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754810711322
+status: 3
+tags: []
+user_id: Piyush
