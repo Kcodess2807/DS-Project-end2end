@@ -590,3 +590,44 @@ x==========x]
 [2025-08-10 12:55:17,822: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
 
 x==========x]
+[2025-08-10 12:59:42,618: INFO: main: >>>>>>>>data ingesiton pipeline<<<<<<<<<<]
+[2025-08-10 12:59:42,620: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-10 12:59:42,620: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-10 12:59:42,620: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-10 12:59:42,620: INFO: common: created directory at: artifacts]
+[2025-08-10 12:59:42,624: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-10 12:59:42,624: INFO: data_ingestion: file already exists]
+[2025-08-10 12:59:42,628: INFO: main: >>>>>>>>>stage data ingesiton pipeline completed <<<<<<< ]
+[2025-08-10 12:59:42,628: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-08-10 12:59:42,631: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-10 12:59:42,633: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-10 12:59:42,634: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-10 12:59:42,635: INFO: common: created directory at: artifacts]
+[2025-08-10 12:59:42,636: INFO: common: created directory at: artifacts/data_validation]
+[2025-08-10 12:59:42,653: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-08-10 12:59:42,653: INFO: main: welcome to our custom logging data science]
+[2025-08-10 12:59:42,654: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-08-10 12:59:42,654: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2025-08-10 12:59:42,654: INFO: main: >>>>>> stage Model Trainer Stage started <<<<<<]
+[2025-08-10 12:59:42,656: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-10 12:59:42,657: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-10 12:59:42,658: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-10 12:59:42,658: INFO: common: created directory at: artifacts]
+[2025-08-10 12:59:42,658: INFO: common: created directory at: artifacts/model_trainer]
+[2025-08-10 12:59:42,668: INFO: main: >>>>>> stage Model Trainer Stage completed <<<<<<
+
+x==========x]
+[2025-08-10 12:59:42,668: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2025-08-10 12:59:42,674: INFO: common: yaml file: config\config.yaml loaded succesfully]
+[2025-08-10 12:59:42,675: INFO: common: yaml file: params.yaml loaded succesfully]
+[2025-08-10 12:59:42,679: INFO: common: yaml file: schema.yaml loaded succesfully]
+[2025-08-10 12:59:42,680: INFO: common: created directory at: artifacts]
+[2025-08-10 12:59:42,680: INFO: common: created directory at: artifacts/model_evalution]
+[2025-08-10 12:59:43,374: INFO: common: json file saved at: artifacts\model_evalution\metrics.json]
+[2025-08-10 12:59:54,514: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]

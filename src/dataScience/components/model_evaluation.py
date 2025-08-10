@@ -12,6 +12,10 @@ import numpy as np
 from pathlib import Path
 from src.dataScience.constants import *
 
+os.environ['MLFLOW_TRACKING_URI']="https://dagshub.com/arushkarnatak1881/DS-Project-end2end.mlflow"
+os.environ["MLFLOW_TRACKING_USERNAME"]='arushkarnatak1881'
+os.environ['MLFLOW_TRACKING_PASSWORD']="344a1e9cb9457c1d7789b3b3eb1b6aae1ba82fe6"
+
 
 class ModelEval:
     def __init__(self, config:ModelEvaluationConfig):
